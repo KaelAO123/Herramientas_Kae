@@ -66,6 +66,14 @@ Para modelar herencia o subtipos. Las restricciones se basan en si las subclases
 | ![solapada_parcial](components/jerarquias/solapada_parcial.png) | `solapada_parcial` | **Solapada y Parcial**: Una entidad puede ser un subtipo, pero no es obligatorio. Puede pertenecer a **varios** de ellos a la vez (ej. Persona (Estudiante o Empleado), una persona puede ser estudiante, empleado, ambos o ninguno). |
 | ![solapada_total](components/jerarquias/solapada_total.png) | `solapada_total` | **Solapada y Total**: Cada entidad de la superclase **debe ser** al menos un subtipo, pudiendo pertenecer a **varios** (ej. Producto (Comestible o Electrónico), todos los productos son o comestibles, o electrónicos, o ambos si es un combo). |
 
+## Agradecimientos
+
+**Fidel Angel Rojas Condori** Por recuperar este contenido justo antes de que fuera completamente eliminado durante el formateo de mi laptop. Haberle pasado este kit de personalización lo salvo de su extinción.
+
+**Isaac Joel Illatarco Anaya** Por nada
+
+**Aaron Nestor Choque Condori** Por lo mismo que Isaac
+
 ## Contribuciones
 
 Si tienes ideas para nuevas formas, encuentras algún error o quieres mejorar la documentación, ¡las contribuciones son bienvenidas! Siéntete libre de abrir un *issue* o enviar un *pull request*.
@@ -73,3 +81,5 @@ Si tienes ideas para nuevas formas, encuentras algún error o quieres mejorar la
 ---
 
 **¡Espero que esta herramienta te sea de gran utilidad para tus clases, proyectos o trabajo diario!**
+
+---
